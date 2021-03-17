@@ -1,9 +1,14 @@
 Gallery - Iaac Assignments for Digital tools for Cloud-based Data management
 
-1 - Lecture 1
+Assigment 1: IaaC in the moon with Elon musk. Check it out!!
 
-2 - Lecture 2
+Assignment 2: City block
 
-3 - Lecture 3
+Assignment 3: We need more options!
 
-4 - Lecture 4
+Assignment 4: Columns
+
+Final Assignment: The last tower, and the first roof
+
+
+Thanks you guys for the great time!! This was fun :)
