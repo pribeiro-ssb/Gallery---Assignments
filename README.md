@@ -1,4 +1,6 @@
-<b>Gallery - Iaac Assignments for Digital tools for Cloud-based Data management
+<p><b>Gallery - Iaac Assignments for Digital tools for Cloud-based Data management</b></p>Cancel Changes
+
+
 
 Assigment 1: IaaC in the moon with Elon musk. Check it out!!
 
