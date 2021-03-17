@@ -12,5 +12,5 @@ Assignment 4: Columns
 
 Final Assignment: The last tower, and the first roof
 <p>
-To Luis and Will
-Thanks you guys for the great time!! This was fun :)
+To Luis and Will,
+Thank you guys for the great time!! This was fun :)
